@@ -11,3 +11,16 @@
   color: #ff9999;
 
 }
+
+.flashy {
+  color: red;
+  font-style: italic;
+
+}
+
+.best {
+  color: blue;
+  font-family: cursive;
+
+
+}
