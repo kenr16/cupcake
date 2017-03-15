@@ -1,17 +1,17 @@
-# _Cupcake Shop_
+# _Cupcake Shop and Boring Lecture_
 
-#### _CSS Practice by developing a simple site for a cupcake shop_
+#### _CSS Practice by developing a simple site for a cupcake shop or a boring lecture in pseudo-latin_
 
 #### By _Ken and Sean_
 
 ## Description
 
-_This is a website which displays our progress learning how to style with CSS. We applied classes to elements_
+_This is a website which displays our progress learning how to style with CSS. We applied classes to elements and practiced further._
 
 ## Setup/Installation Requirements
 
-* _Clone repo, self executable HTML file_
-
+* _Clone repo_
+* _Self executable HTML file_
 
 ## Known Bugs
 
