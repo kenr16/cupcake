@@ -1,0 +1,13 @@
+.pink {
+  width: 50%;
+  font-style: italic;
+  color: #ffffff;
+  background-color: lightpink;
+}
+
+.description {
+  font-weight: bold;
+  font-style: normal;
+  color: #ff9999;
+
+}
