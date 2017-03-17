@@ -6,11 +6,11 @@
 
 ## Description
 
-_This is a website which displays our progress learning how to style with CSS. We applied classes to elements and practiced further._
+_This is a website designed for a small cupcake shop as an exercise for the second day of class.  It was done to display our progress learning how to style with CSS. We applied classes to elements and practiced further._
 
 ## Setup/Installation Requirements
 
-* _Clone repo_
+* _Clone repository onto desktop_
 * _Self executable HTML file_
 
 ## Known Bugs
@@ -19,7 +19,7 @@ _No known issues_
 
 ## Support and contact details
 
-_contact through github account_
+_If there are any issues, please contact us via our respective github accounts._
 
 ## Technologies Used
 
@@ -27,6 +27,6 @@ _HTML, CSS_
 
 ### License
 
-*MIT*
+*MIT Licence*
 
 Copyright (c) 2016 **SPS KR**
